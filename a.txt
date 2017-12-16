@@ -3,4 +3,7 @@ asdasd
 bbclkjhgfdbbb 
 dddd
 asfasdasdfafsdf
+<<<<<<< HEAD
+asdfasdf
 asdfs`
+asdasdasdsd
