@@ -2,4 +2,6 @@ asdasdasaaaa
 bbclkjhgfdbbb 
 dddd
 asfasdasdfafsdf
+<<<<<<< HEAD
 asdfasdf
+asdfs`
